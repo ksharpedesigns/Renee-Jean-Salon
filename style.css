@@ -38,6 +38,11 @@ font-size: 16px;
   border-bottom-right-radius: 0px;
 }
 
+.round-border {
+  border-radius: 50%;
+  color: none;
+}
+
 .rounded-border {
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
