@@ -1,5 +1,5 @@
 body {
-background-image: url("codeforwebsitefaded.jpeg");
+background-image: url("renee jean salon exterior.jpg");
 background-size: contain;
 color: white;
 font-size: 12pt;
@@ -56,8 +56,12 @@ font-size: 16px;
   margin-bottom: 40px;
 }
 
+.pad-content-top {
+  margin-top: 40px;
+}
+
 .button {
-background-color: #A012A5;
+background-color: #ffaec9;
 border: none;
 color: white;
 padding: 15px 32px;
@@ -69,7 +73,7 @@ transition: 0.5s;
 }
 
 .button:hover {
-  background-color: #6F12A5;
+  background-color: #800959;
 }
 
 .button span {
