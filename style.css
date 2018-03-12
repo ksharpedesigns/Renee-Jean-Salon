@@ -22,6 +22,7 @@ html {
 p {
 color: white;
 font-size: 16px;
+font-family: fantasy;
 }
 
 .cool-border {
@@ -41,6 +42,16 @@ font-size: 16px;
 .round-border {
   border-radius: 50%;
   color: none;
+}
+
+.round-border-visible {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-width: 6px;
+  border-color: white;
+  border-style: solid;
 }
 
 .rounded-border {
