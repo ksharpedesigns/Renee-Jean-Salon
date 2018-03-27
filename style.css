@@ -13,6 +13,11 @@ html {
   opacity: 0;
 }
 
+.transdiv {
+  background: rgba(0, 0, 0, 0.5);
+  width: 50%;
+}
+
 .title-text {
   font-family: fantasy;
   color: white;
@@ -115,4 +120,10 @@ transition: 0.5s;
 .button:hover span:after {
   opacity: 1;
   right: 0;
+}
+
+.top-bar {
+  background-color: #333;
+  display: flex;
+  justify-content: center;
 }
