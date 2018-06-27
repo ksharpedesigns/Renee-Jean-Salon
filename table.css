@@ -1,13 +1,9 @@
-table {
+table, td{
   width: 100%;
   display: center-block;
   text-align: center;
   font-family: cursive;
   padding: 10px;
-  background-color: #ffaec9;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
   table-layout: fixed;
+  border: 1px solid white;
 }
